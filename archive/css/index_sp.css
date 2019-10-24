@@ -1,0 +1,62 @@
+@charset "UTF-8";
+/*----------------------------------------
+  Youtube 埋め込み動画 mixin
+----------------------------------------*/
+/*----------------------------------------
+  browser default value
+----------------------------------------*/
+/*----------------------------------------
+  base
+----------------------------------------*/
+/*----------------------------------------
+  z-index
+----------------------------------------*/
+/*----------------------------------------
+  color
+----------------------------------------*/
+/*----------------------------------------
+  font weight
+----------------------------------------*/
+/*----------------------------------------
+  opacity
+----------------------------------------*/
+/*----------------------------------------
+  size
+----------------------------------------*/
+/*----------------------------------------
+  transition
+----------------------------------------*/
+.archive_wrapper {
+  padding-bottom: 80px;
+  max-width: none;
+}
+
+.archive_list {
+  display: block;
+}
+
+.archive_item {
+  margin-right: 0;
+}
+
+.archive_item_text {
+  padding: 15px 20px;
+}
+
+.archive_item_date {
+  margin-bottom: 0;
+}
+
+.archive_item_title {
+  font-size: 1.4rem;
+}
+
+.pagination {
+  margin-top: 60px;
+}
+
+.pagination_list_item {
+  margin: 0;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImFyY2hpdmUvY3NzL2luZGV4X3NwLmNzcyIsImFyY2hpdmUvbm9kZV9tb2R1bGVzL0Bvcm8vc3RhdGljLXNpdGUtbW9kdWxlcy9fc2Nzcy9taXhpbnMvX3lvdXR1YmUuc2NzcyIsImFyY2hpdmUvY3NzL19zY3NzL19hYnN0cmFjdC9fdmFyaWFibGVzLnNjc3MiLCJhcmNoaXZlL2Nzcy9hcmNoaXZlL2Nzcy9pbmRleF9zcC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLGlCQUFpQjtBQ0FqQjs7MENBRTBDO0FDRjFDOzswQ0FFMEM7QUFHMUM7OzBDQUUwQztBQU0xQzs7MENBRTBDO0FBRzFDOzswQ0FFMEM7QUFVMUM7OzBDQUUwQztBQUsxQzs7MENBRTBDO0FBRzFDOzswQ0FFMEM7QUFHMUM7OzBDQUUwQztBQzdDeEM7RUFDRSxxQkFBb0I7RUFDcEIsZ0JBQWU7Q0FDaEI7O0FBRUQ7RUFDRSxlQUFjO0NBQ2Y7O0FBRUQ7RUFDRSxnQkFBZTtDQWFoQjs7QUFYQztFQUNFLG1CQUFrQjtDQUNuQjs7QUFFRDtFQUNFLGlCQUFnQjtDQUNqQjs7QUFFRDtFQUNFLGtCQUFpQjtDQUNsQjs7QUFJTDtFQUNFLGlCQUFnQjtDQU9qQjs7QUFKRztFQUNFLFVBQVM7Q0FDViIsImZpbGUiOiJhcmNoaXZlL2Nzcy9pbmRleF9zcC5jc3MiLCJzb3VyY2VzQ29udGVudCI6W119 */
